@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rsbconsultant
-- 👀 I’m interested in Big Data, Python and Spark
+- 👀 I’m interested in Big Data, Python and Spark!
 - 🌱 I’m currently learning Data Architectures and Data Science
 - 💞️ I’m looking to collaborate on ML Projects
 - 📫 Just write me here if you have some questions
